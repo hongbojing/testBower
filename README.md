@@ -5,9 +5,11 @@ This repo is for testing the usage of bower, I'll refer some templates in this r
 ![image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Installation
-1 git
-2 npm
-3 bower
+1. git
+2. npm
+3. bower
+ 
+
 ## Usage_notification
 This is not a tutorial, but it would be a good idea to compose one in the future
 ## Contributing
